@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kachimbaezue.github.io/notes-ntsrgf/sitemap.xml
